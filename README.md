@@ -46,8 +46,8 @@ A dynamic, user-friendly web application that allows users to search for movies,
 
 ## Screenshots
 
-![Movie Search](img1.png)
-![Movie Details](img2.png)
+![Movie Search](screenshots/img1.png)
+![Movie Details](screenshots/img2.png)
 
 ## Future Enhancements
 
